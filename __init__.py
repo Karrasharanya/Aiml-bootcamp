@@ -1,5 +1,4 @@
-sub = "subpackdemo"
+main = "demonstrates main package"
 
-
-def subpackdemo():
-    return "sub-pack demonstration"
+def mainpackdemo():
+    return "main-pack demonstration"
